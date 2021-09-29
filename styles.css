@@ -596,7 +596,7 @@ a.btn:active {
   position: absolute;
   top: 0;
   left: 0;
-  transition: 3.5s ease-in-out;
+  transition: 4.5s ease-in-out;
   object-fit: cover;
 }
 
