@@ -111,8 +111,8 @@ if (glide)
     perView: 3,
     gap: 30,
     hoverpause: true,
-    autoplay: 2000,
-    animationDuration: 800,
+    autoplay: 3000,
+    animationDuration: 900,
     animationTimingFunc: "cubic-bezier(0.165, 0.840, 0.440, 1.000)",
     breakpoints: {
       996: {
